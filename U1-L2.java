@@ -16,4 +16,4 @@ class Main {
     System.out.println("Your favorite food is: " + food);
     String s = nextLine();
 
-  }
+  }s
